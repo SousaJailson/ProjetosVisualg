@@ -1,2 +1,2 @@
 # MeusProjetosVisualg
- Primeiros cod no Visualg
+ Meus rimeiros codigos  no Visualg, codigos bastante basicos mas muito relevantes pra meu inicio.
